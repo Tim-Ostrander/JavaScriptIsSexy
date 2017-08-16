@@ -1,0 +1,15 @@
+{
+  "name": "JavaScriptIsSexy",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
